@@ -1,0 +1,62 @@
+body{
+
+    background-color: #CA1C36;
+
+}
+
+.icon{
+
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+
+}
+
+.link{
+
+    display: flex;
+    justify-content: unset;
+
+}
+
+.heading{
+
+    background-color: #ffffff;
+    display: flex;
+    justify-content: flex-start;
+    align-self: center;
+
+}
+
+.subhead{
+
+    background-color: #FFd900;
+
+}
+
+.left{
+
+    background-color : #6ea53b;
+    width : 20%;
+    height: 400px;
+    float :left;
+
+}
+
+.right{
+
+    background-color: #FF4500;
+    width : 79%;
+    height : 400px;
+    float :right;
+
+}
+
+.link{
+
+    display: flex;
+    justify-content: last baseline;
+    float: left;
+
+}
+
